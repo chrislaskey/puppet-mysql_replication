@@ -1,0 +1,9 @@
+name 'mysql_replication'
+version '0.1.0'
+author 'Chris Laskey'
+summary 'Thin wrapper on top of puppetlabs/mysql'
+description 'Thin wrapper on top of puppetlabs/mysql for MySQL replication'
+license 'MIT License (http://opensource.org/licenses/MIT)'
+project_page 'http://github.com/chrislaskey'
+
+dependency 'puppetlabs/mysql', '>= 2.1.0'

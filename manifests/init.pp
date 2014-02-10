@@ -1,0 +1,3 @@
+class mysql_replication () {
+
+}
